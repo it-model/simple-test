@@ -1,6 +1,6 @@
-# Teste: Nome do candidato
+# Teste: Cristhian Matheus Porfirio Morais
 
-### Prazo: dd/mm/aaaa
+### Prazo: 13/01/2018
 ##### *Antes de iniciar o projeto, informe o prazo para a conclusão, com uma PR no branch master.
 
 ## Criar um CRUD
